@@ -53,7 +53,7 @@ export default function Footer() {
 
                         {/* Buy me a coffee */}
                         <a
-                            href="https://img.vietqr.io/image/mbbank-0779330918-compact2.jpg"
+                            href="https://img.vietqr.io/image/mbbank-0779440918-compact2.jpg"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-400 hover:bg-amber-500/20 transition-colors cursor-pointer"
