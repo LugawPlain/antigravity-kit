@@ -34,14 +34,20 @@ const steps = [
     },
     {
         title: "Initialize in your project",
+        command: "cd ",
+        args: "your-project",
+        copyable: false,
+    },
+    {
+        title: "Initialize in your project",
         command: "ag-kit",
         args: "init",
         copyable: true,
     },
     {
         title: "Start coding",
-        command: "# Ready!",
-        args: "Skills auto-apply",
+        command: "#",
+        args: "Happy coding!",
         copyable: false,
         isComment: true,
     },

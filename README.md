@@ -143,8 +143,16 @@ Workflows are step-by-step procedures. Invoke with slash command `/workflow-name
 npm install -g @vudovn/antigravity-kit
 
 # Then use commands anywhere
+# Navigate to your project
+cd your-project
+
+# Install .agent folder
 ag-kit init
+
+# Update to the latest version
 ag-kit update
+
+# Check installation status
 ag-kit status
 ```
 

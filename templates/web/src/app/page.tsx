@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main>
+      <main className="md:mt-0 mt-7">
         <Hero />
         <Features />
         <Skills />

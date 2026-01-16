@@ -134,7 +134,7 @@ export default function Skills() {
                                 <span className="text-[#64748b] w-4 text-right">{index + 1}</span>
                                 <span className="text-[#64748b]">├──</span>
                                 <span style={{ color: currentCategory.color }}>{skill}</span>
-                                <span className="text-[#64748b]">/SKILL.md</span>
+                                <span className="text-[#64748b] md:block hidden">/SKILL.md</span>
                             </div>
                         ))}
                         <div className="flex items-center gap-3 py-1.5 mt-2">
