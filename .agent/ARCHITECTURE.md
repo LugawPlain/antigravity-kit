@@ -68,6 +68,7 @@ Domain-specific knowledge modules. Skills are loaded on-demand based on task con
 ### Backend & API
 | Skill | Description |
 |-------|-------------|
+| `betterauth-patterns` | Next.js authentication setup |
 | `api-patterns` | REST, GraphQL, tRPC |
 | `nestjs-expert` | NestJS modules, DI, decorators |
 | `nodejs-best-practices` | Node.js async, modules |
@@ -76,6 +77,7 @@ Domain-specific knowledge modules. Skills are loaded on-demand based on task con
 ### Database
 | Skill | Description |
 |-------|-------------|
+| `convex-expert` | Real-time database, queries, mutations |
 | `database-design` | Schema design, optimization |
 | `prisma-expert` | Prisma ORM, migrations |
 
@@ -205,7 +207,7 @@ skill-name/
 | Metric | Value |
 |--------|-------|
 | **Total Agents** | 16 |
-| **Total Skills** | 40 |
+| **Total Skills** | 42 |
 | **Total Workflows** | 11 |
 | **Coverage** | ~90% web/mobile development |
 
